@@ -1,0 +1,30 @@
+{
+  "name": "mylink",
+  "version": "1.0.0",
+  "description": "Linktree와 Littly와 같은 서비스는 다양한 기능을 선보이지만, mylink에서는 단순하게 링크만 제공하는 나만의 프로필 링크를 HTML/CSS로 만들어보는 과정을 담았습니다.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/illustudio/mylink.git"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d ./"
+  },
+  "keywords": [
+    "mylink",
+    "profile link",
+    "프로필링크",
+    "마이크로웹사이트",
+    "microwebsite",
+    "website"
+  ],
+  "author": "hyunki, bae",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/illustudio/mylink/issues"
+  },
+  "homepage": "https://illustudio.github.io/mylink",
+  "dependencies": {},
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
